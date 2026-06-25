@@ -6,7 +6,7 @@
       <h1 style="color: #ffffff; margin: 0; font-size: 2.2rem; font-weight: 700; letter-spacing: -0.5px;">Kashmala Arshad</h1>
       <p style="color: #8b949e; margin: 5px 0 0 0; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1.5px; font-weight: 600;">Computer Engineering Portfolio</p>
     </div>
-    <!-- Navigation Menu Like Asim Raza's -->
+    <!-- Navigation Menu -->
     <div style="font-weight: 500; font-size: 1rem;">
       <a href="#home" style="color: #ffffff; text-decoration: none; margin-left: 20px; border-bottom: 2px solid #58a6ff; padding-bottom: 4px;">Home</a>
       <a href="#about" style="color: #8b949e; text-decoration: none; margin-left: 20px; transition: color 0.2s;" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#8b949e'">About</a>
@@ -29,24 +29,25 @@
     <p style="line-height: 1.6; color: #8b949e;">Focused on integrating foundational software systems with structural engineering hardware concepts. My competencies encompass structural logic mapping, relational normalization algorithms (1NF, 2NF, 3NF), relational algebra expressions, and modern predictive engineering frameworks using structured machine learning models.</p>
   </div>
 
-  <!-- Engineering Journal Dashboard (The Blog Posts Grid) -->
-  <div id="blog" style="margin-bottom: 40px;">
+  <!-- Clean, Non-Spammy Engineering Journal Section -->
+  <div id="blog" style="margin-bottom: 40px; padding: 10px 20px;">
     <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem; margin-bottom: 20px;">Engineering Journal & Chronicles</h3>
     
-    <div style="display: grid; grid-template-columns: 1fr; gap: 15px;">
-      <!-- Post 1 to 5 Link Matrix -->
-      <a href="post-1" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 01: Paradigms of Structural Computation & UET Frameworks</a>
-      <a href="post-2" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 02: Algorithmic Logic, Problem Decomposition & Structural Paradigms</a>
-      <a href="post-3" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 03: Modern Predictive Frameworks & Classifier Mechanics (ML)</a>
-      <a href="post-4" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 04: Evaluation Metrics & Midterm Performance Matrix Reflection</a>
-      <a href="post-5" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 05: GUI Interactive Paradigms – C# Windows Forms Application Project</a>
-      <a href="post-6" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 06: Relational Database Foundations & Data Persistence Systems</a>
-      <a href="post-10" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 10: Academic Reflections on Normalization Paradigms (1NF/2NF/3NF)</a>
-      <a href="post-11" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 11: Comprehensive Consolidation of Laboratory Data Ecosystems</a>
-      <a href="post-12" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 12: Data Engineering Horizons & Advanced Machine Learning Synergies</a>
-      <a href="post-13" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 13: Technical Mastery of Modern Version Control & Git Protocols</a>
-      <a href="post-14" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 14: Engineering Management and Digital Creative Media Frameworks</a>
-      <a href="post-15" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 15: Future Horizons – Next-Generation Computational & Intelligence Challenges</a>
+    <div style="line-height: 1.8; font-size: 1.05rem;">
+      <ul style="list-style-type: square; padding-left: 20px; color: #8b949e;">
+        <li style="margin-bottom: 8px;"><a href="./post-1.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 01: Paradigms of Structural Computation</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-2.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 02: Algorithmic Logic and Problem Decomposition</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-3.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 03: Explorations in Modern Predictive Frameworks</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-4.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 04: Evaluation Metrics Reflection</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-5.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 05: GUI Interactive Paradigms in C#</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-6.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 06: Relational Database Foundations</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-10.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 10: Academic Reflections on Normalization</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-11.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 11: Consolidation of Laboratory Data</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-12.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 12: Data Engineering Horizons</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-13.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 13: Technical Mastery of Version Control</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-14.md; color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 14: Digital Creative Media Frameworks</a></li>
+        <li style="margin-bottom: 8px;"><a href="./post-15.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 15: Future Horizons in Engineering</a></li>
+      </ul>
     </div>
   </div>
 
