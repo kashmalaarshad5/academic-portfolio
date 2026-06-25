@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div style="background-color: #0d1117; color: #c9d1d9; padding: 25px; border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; box-shadow: 0 4px 20px rgba(0,0,0,0.3); max-width: 850px; margin: 0 auto;">
 
   <!-- Post Header Navigation -->
