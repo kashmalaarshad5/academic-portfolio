@@ -30,26 +30,29 @@
   </div>
 
   <!-- Clean, Non-Spammy Engineering Journal Section -->
-  <div id="blog" style="margin-bottom: 40px; padding: 10px 20px;">
-    <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem; margin-bottom: 20px;">Engineering Journal & Chronicles</h3>
-    
-    <div style="line-height: 1.8; font-size: 1.05rem;">
-      <ul style="list-style-type: square; padding-left: 20px; color: #8b949e;">
-        <li style="margin-bottom: 8px;"><a href="./post-1.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 01: Paradigms of Structural Computation</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-2.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 02: Algorithmic Logic and Problem Decomposition</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-3.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 03: Explorations in Modern Predictive Frameworks</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-4.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 04: Evaluation Metrics Reflection</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-5.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 05: GUI Interactive Paradigms in C#</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-6.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 06: Relational Database Foundations</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-10.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 10: Academic Reflections on Normalization</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-11.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 11: Consolidation of Laboratory Data</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-12.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 12: Data Engineering Horizons</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-13.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 13: Technical Mastery of Version Control</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-14.md; color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 14: Digital Creative Media Frameworks</a></li>
-        <li style="margin-bottom: 8px;"><a href="./post-15.md" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 15: Future Horizons in Engineering</a></li>
-      </ul>
-    </div>
+<div id="blog" style="margin-bottom: 40px; padding: 10px 20px;">
+  <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem; margin-bottom: 20px;">Engineering Journal & Chronicles</h3>
+
+  <div style="line-height: 1.8; font-size: 1.05rem;">
+    <ul style="list-style-type: square; padding-left: 20px; color: #8b949e;">
+      <li style="margin-bottom: 8px;"><a href="post-1" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 01: Paradigms of Structural Computation</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-2" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 02: Algorithmic Logic and Problem Decomposition</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-3" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 03: Explorations in Modern Predictive Frameworks</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-4" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 04: Evaluation Metrics Reflection</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-5" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 05: GUI Interactive Paradigms in C#</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-6" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 06: Relational Database Foundations</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-7" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 07: Entity-Relationship Modeling & Schema Mapping</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-8" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 08: Foundations of Digital Logic Design</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-9" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 09: Implementation of an Automatic Traffic Light System</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-10" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 10: Academic Reflections on Normalization</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-11" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 11: Consolidation of Laboratory Data</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-12" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 12: Data Engineering Horizons</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-13" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 13: Technical Mastery of Version Control</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-14" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 14: Digital Creative Media Frameworks</a></li>
+      <li style="margin-bottom: 8px;"><a href="post-15" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 15: Future Horizons in Engineering</a></li>
+    </ul>
   </div>
+</div>
 
   <!-- Contact Section -->
   <div id="contact" style="border-top: 1px solid #21262d; padding-top: 20px; text-align: center; color: #8b949e; font-size: 0.9rem;">
