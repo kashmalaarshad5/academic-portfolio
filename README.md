@@ -64,11 +64,11 @@ layout: default
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px 0;">Foundations of computer engineering and early coding experiences.</p>
         <div style="color: #c9d1d9; font-size: 0.85rem; display: grid; gap: 12px;">
           <div>
-            <strong>[Post 01: Introduction to Programming](post-1)</strong>
+            <strong>[Post 01: Introduction to Programming](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-1.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Starting my computer engineering journey and structural code basics.</p>
           </div>
           <div>
-            <strong>[Post 02: Understanding Software Design & Code](post-2)</strong>
+            <strong>[Post 02: Understanding Software Design & Code](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-2.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">How to break down complex logical steps and optimize software structure.</p>
           </div>
         </div>
@@ -84,39 +84,39 @@ layout: default
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px 0;">Core engineering modules including Databases and ML datasets.</p>
         <div style="color: #c9d1d9; font-size: 0.85rem; display: grid; gap: 12px;">
           <div>
-            <strong>[Post 03: Intro to Machine Learning](post-3)</strong>
+            <strong>[Post 03: Intro to Machine Learning](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-3.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Working with basic data-driven paradigms and classification datasets.</p>
           </div>
           <div>
-            <strong>[Post 04: Classifier Accuracy & Metrics](post-4)</strong>
+            <strong>[Post 04: Classifier Accuracy & Metrics](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-4.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Learning how to check confusion matrix and classifier results properly.</p>
           </div>
           <div>
-            <strong>[Post 05: Crop Yield Prediction Project](post-5)</strong>
+            <strong>[Post 05: Crop Yield Prediction Project](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-5.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Applying machine learning algorithms to environmental and agricultural datasets.</p>
           </div>
           <div>
-            <strong>[Post 06: Relational Database Foundations](post-6)</strong>
+            <strong>[Post 06: Relational Database Foundations](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-6.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Understanding schema arrays, column setups, and SQL tables syntax.</p>
           </div>
           <div>
-            <strong>[Post 07: Entity-Relationship Modeling](post-7)</strong>
+            <strong>[Post 07: Entity-Relationship Modeling](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-7.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Designing system blueprints, attributes, and structural database setups.</p>
           </div>
           <div>
-            <strong>[Post 10: Database Normalization](post-10)</strong>
+            <strong>[Post 10: Database Normalization](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-10.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Structuring relations up to 3NF to prevent redundant tables and anomalies.</p>
           </div>
           <div>
-            <strong>[Post 11: Organizing Lab Reports](post-11)</strong>
+            <strong>[Post 11: Organizing Lab Reports](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-11.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Compilation and technical documentation logs for semester reviews.</p>
           </div>
           <div>
-            <strong>[Post 12: Intro to Data Engineering](post-12)</strong>
+            <strong>[Post 12: Intro to Data Engineering](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-12.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Exploring backend architecture setups and continuous ETL frameworks.</p>
           </div>
           <div>
-            <strong>[Post 13: Version Control and Git](post-13)</strong>
+            <strong>[Post 13: Version Control and Git](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-13.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Managing script backups and tracking staging-commit repositories cycles.</p>
           </div>
         </div>
@@ -138,21 +138,21 @@ layout: default
       </div>
       <div style="padding: 15px;">
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px 0;">Hostel routine dynamics, student organization actions, and media layouts.</p>
-        <div style="color: #c9d1d9; font-size: 0.85rem; display: grid; gap: 12px;">
+        <div style="color: #c9d1d9; font-size: 0.85rem; display: grid; gap: 8px;">
           <div>
-            <strong>[Post 08: My First Day at UET Lahore](post-8)</strong>
+            <strong>[Post 08: My First Day at UET Lahore](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-8.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Embarking on the engineering journey and early university experiences.</p>
           </div>
           <div>
-            <strong>[Post 09: Hostel Life Dynamics & Activities](post-9)</strong>
+            <strong>[Post 09: Hostel Life Dynamics & Activities](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-9.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Late-night study peer group sessions, movie nights, and balancing campus life.</p>
-          </li>
+          </div>
           <div>
-            <strong>[Post 14: Digital Media & Design Tools](post-14)</strong>
+            <strong>[Post 14: Digital Media & Design Tools](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-14.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Exploring graphics layouts, visual communications tools, and UI/UX setups.</p>
           </div>
           <div>
-            <strong>[Post 15: Future Academic Goals](post-15)</strong>
+            <strong>[Post 15: Future Academic Goals](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-15.md)</strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Reflecting on initial steps and building professional technical direction blueprints.</p>
           </div>
         </div>
