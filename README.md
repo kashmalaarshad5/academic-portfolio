@@ -3,6 +3,10 @@
   <!-- Top Premium Header Area -->
   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #21262d; padding-bottom: 20px; margin-bottom: 25px;">
     <div>
+      <!-- Updated Professional Graphic Avatar -->
+        <div style="margin-bottom: 15px;">
+          <img src="https://img.freepik.com/free-vector/user-circles-set_78370-4704.jpg" alt="Kashmala Arshad" style="width: 110px; height: 110px; border-radius: 50%; border: 3px solid #58a6ff; object-fit: cover; background: #161b22; box-shadow: 0 0 15px rgba(88, 166, 255, 0.4);">
+        </div>
       <h1 style="color: #ffffff; margin: 0; font-size: 2.2rem; font-weight: 700; letter-spacing: -0.5px;">Kashmala Arshad</h1>
       <p style="color: #8b949e; margin: 5px 0 0 0; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1.5px; font-weight: 600;">Computer Engineering Portfolio</p>
     </div>
