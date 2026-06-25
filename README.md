@@ -181,7 +181,7 @@
 
     <!-- Card 13 -->
     <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      <img src="https://images.unsplash.com/photo-1556075798-482a62c15f3c?w=400&auto=format&fit=crop&q=60" alt="Git" style="width: 100%; height: 140px; object-fit: cover;">
+      <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&auto=format&fit=crop&q=60" alt="Git" style="width: 100%; height: 140px; object-fit: cover;">
       <div style="padding: 15px;">
         <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-13" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 13: Mastery of Version Control</a></h5>
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Managing codebases using Git repository structures.</p>
