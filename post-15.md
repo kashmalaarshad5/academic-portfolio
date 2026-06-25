@@ -1,9 +1,15 @@
-# Post 15: Future Horizons – Preparing for Next-Generation Computational and Intelligence Challenges
+---
+layout: default
+---
+# Post 15: My Future Goals and Academic Direction in Computer Engineering
 
-As this intensive academic semester draws to a successful close at the University of Engineering and Technology (UET) Lahore, reflecting on this multi-faceted engineering portfolio reveals an incredible trajectory of technical growth and mental discipline. From initially debugging simple structures in Programming Fundamentals to normalising complex relational database networks and building interactive C# Windows Forms interfaces, my computing capabilities have matured dramatically over the past few months. 
+### Looking Back at My Progress
+Completing my second semester at UET Lahore has given me a great foundation in computer systems. I have moved from basic console scripting to building visual GUI games in C#. I have progressed from simple text files to creating complex relational databases with proper normalization rules. In our hardware labs, I learned how to build working automatic traffic light circuits using physical flip-flops and logic chips. It has been a tough but highly rewarding journey.
 
-The rigorous academic standards, continuous evaluation metrics, and structured laboratory training provided under the guidance of Dr. Bilal Ahmad have fully prepared us to confront next-generation computing challenges with complete confidence. This compiled portfolio stands as a permanent digital milestone, proving my readiness to engineer intelligent, scalable, and failure-proof computational solutions for both software engineering and advanced data intelligence disciplines in the future global tech landscape.
+### Areas I Want to Study Next
+In the upcoming semesters, I am very excited to dive deeper into advanced computer engineering fields. I want to master object-oriented programming architectures, learn how microprocessors interface with low-level devices, and study advanced data pipelines. I am also eager to improve my practical machine learning skills so I can move past simple datasets and work on complex artificial intelligence systems.
 
-Looking ahead, the combination of backend database mastery, version control workflows, and machine learning structures will serve as my ultimate toolkit as a Computer Engineering student. Dr. Bilal Ahmad's persistent emphasis on combining theoretical perfection with active implementation has reshaped how I approach systemic issues. As we step into the next phase of our engineering journey, this portfolio remains an active testament to the sleepless nights, persistent focus, and relentless dedication to technical excellence that defines a true engineer ready to build the future.
+### Building My Practical Portfolio
+My ultimate goal in this engineering degree is to focus completely on project-based learning. I do not want to just memorize answers for exams; I want to build real software solutions and working hardware tools that solve real-world problems. I will use my GitHub repository actively to save every major program I write. This portfolio is just the first step in a long journey of tech innovation, and I am ready for the challenges ahead.
 
-#DrBilalAhmad #ComputerEngineering #UETLahore #AcademicMilestone #FutureEngineers #EndofSemester #TechInnovation
+#ComputerEngineering #FutureGoals #AcademicJourney #TechInnovation #[Dr. Bilal Ahmad](https://github.com/drbilalahmad)
