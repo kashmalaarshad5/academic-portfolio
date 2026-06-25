@@ -31,30 +31,30 @@ Hi! I am a Computer Engineering student in my 2nd semester at UET Lahore. I real
 
 ### 📁 Semester 01
 Foundations of computer engineering and early coding experiences.
-* **[Post 01: Introduction to Programming](https://kashmalaarshad5.github.io/academic-portfolio/post-1.html)**
+* **[Post 01: Introduction to Programming](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-1.md)**
   Starting my computer engineering journey and structural code basics.
-* **[Post 02: Understanding Software Design & Code](https://kashmalaarshad5.github.io/academic-portfolio/post-2.html)**
+* **[Post 02: Understanding Software Design & Code](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-2.md)**
   How to break down complex logical steps and optimize software structure.
 
 ### 📁 Semester 02 (Current)
 Core engineering modules including Databases and ML datasets.
-* **[Post 03: Intro to Machine Learning](https://kashmalaarshad5.github.io/academic-portfolio/post-3.html)**
+* **[Post 03: Intro to Machine Learning](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-3.md)**
   Working with basic data-driven paradigms and classification datasets.
-* **[Post 04: Classifier Accuracy & Metrics](https://kashmalaarshad5.github.io/academic-portfolio/post-4.html)**
+* **[Post 04: Classifier Accuracy & Metrics](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-4.md)**
   Learning how to check confusion matrix and classifier results properly.
-* **[Post 05: Crop Yield Prediction Project](https://kashmalaarshad5.github.io/academic-portfolio/post-5.html)**
+* **[Post 05: Crop Yield Prediction Project](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-5.md)**
   Applying machine learning algorithms to environmental and agricultural datasets.
-* **[Post 06: Relational Database Foundations](https://kashmalaarshad5.github.io/academic-portfolio/post-6.html)**
+* **[Post 06: Relational Database Foundations](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-6.md)**
   Understanding schema arrays, column setups, and SQL tables syntax.
-* **[Post 07: Entity-Relationship Modeling](https://kashmalaarshad5.github.io/academic-portfolio/post-7.html)**
+* **[Post 07: Entity-Relationship Modeling](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-7.md)**
   Designing system blueprints, attributes, and structural database setups.
-* **[Post 10: Database Normalization](https://kashmalaarshad5.github.io/academic-portfolio/post-10.html)**
+* **[Post 10: Database Normalization](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-10.md)**
   Structuring relations up to 3NF to prevent redundant tables and anomalies.
-* **[Post 11: Organizing Lab Reports](https://kashmalaarshad5.github.io/academic-portfolio/post-11.html)**
+* **[Post 11: Organizing Lab Reports](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-11.md)**
   Compilation and technical documentation logs for semester reviews.
-* **[Post 12: Intro to Data Engineering](https://kashmalaarshad5.github.io/academic-portfolio/post-12.html)**
+* **[Post 12: Intro to Data Engineering](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-12.md)**
   Exploring backend architecture setups and continuous ETL frameworks.
-* **[Post 13: Version Control and Git](https://kashmalaarshad5.github.io/academic-portfolio/post-13.html)**
+* **[Post 13: Version Control and Git](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-13.md)**
   Managing script backups and tracking staging-commit repositories cycles.
 
 ### 🔒 Semesters 03 to 08
@@ -62,13 +62,13 @@ Core engineering modules including Databases and ML datasets.
 
 ### 🏛️ Campus Life & Activities
 Hostel routine dynamics, student organization actions, and media layouts.
-* **[Post 08: My First Day at UET Lahore](https://kashmalaarshad5.github.io/academic-portfolio/post-8.html)**
+* **[Post 08: My First Day at UET Lahore](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-8.md)**
   Embarking on the engineering journey and early university experiences.
-* **[Post 09: Hostel Life Dynamics & Activities](https://kashmalaarshad5.github.io/academic-portfolio/post-9.html)**
+* **[Post 09: Hostel Life Dynamics & Activities](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-9.md)**
   Late-night study peer group sessions, movie nights, and balancing campus life.
-* **[Post 14: Digital Media & Design Tools](https://kashmalaarshad5.github.io/academic-portfolio/post-14.html)**
+* **[Post 14: Digital Media & Design Tools](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-14.md)**
   Exploring graphics layouts, visual communications tools, and UI/UX setups.
-* **[Post 15: Future Academic Goals](https://kashmalaarshad5.github.io/academic-portfolio/post-15.html)**
+* **[Post 15: Future Academic Goals](https://github.com/kashmalaarshad5/academic-portfolio/blob/main/post-15.md)**
   Reflecting on initial steps and building professional technical direction blueprints.
 
 ---
