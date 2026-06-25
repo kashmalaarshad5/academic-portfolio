@@ -1,34 +1,58 @@
-# Academic Portfolio: Programming Fundamentals & Database Systems
+<div style="background-color: #0d1117; color: #c9d1d9; padding: 25px; border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
 
-Welcome to my official engineering portfolio. This live digital space documents my technical development, laboratory implementations, and core conceptual milestones during my second semester in Computer Engineering at UET Lahore, Faisalabad Campus. This comprehensive archive serves as a transparent reflection of my logical evolution under the structured guidance and academic mentorship of our professor, Dr. Bilal Ahmad.
+  <!-- Top Premium Header Area -->
+  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #21262d; padding-bottom: 20px; margin-bottom: 25px;">
+    <div>
+      <h1 style="color: #ffffff; margin: 0; font-size: 2.2rem; font-weight: 700; letter-spacing: -0.5px;">Kashmala Arshad</h1>
+      <p style="color: #8b949e; margin: 5px 0 0 0; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1.5px; font-weight: 600;">Computer Engineering Portfolio</p>
+    </div>
+    <!-- Navigation Menu Like Asim Raza's -->
+    <div style="font-weight: 500; font-size: 1rem;">
+      <a href="#home" style="color: #ffffff; text-decoration: none; margin-left: 20px; border-bottom: 2px solid #58a6ff; padding-bottom: 4px;">Home</a>
+      <a href="#about" style="color: #8b949e; text-decoration: none; margin-left: 20px; transition: color 0.2s;" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#8b949e'">About</a>
+      <a href="#blog" style="color: #8b949e; text-decoration: none; margin-left: 20px; transition: color 0.2s;" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#8b949e'">Blog</a>
+      <a href="#contact" style="color: #8b949e; text-decoration: none; margin-left: 20px; transition: color 0.2s;" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#8b949e'">Contact</a>
+    </div>
+  </div>
 
-## 📌 Portfolio Navigation Menu
-Niche diye gaye links par click karke aap meri saari technical and structural posts parh sakte hain:
+  <!-- Hero Intro Section -->
+  <div id="home" style="margin-bottom: 40px; background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); padding: 30px; border-radius: 8px; border: 1px solid #30363d;">
+    <h2 style="color: #58a6ff; margin-top: 0; font-size: 1.5rem;">Welcome to my Official Engineering Space</h2>
+    <p style="line-height: 1.7; color: #c9d1d9; font-size: 1.05rem; margin-bottom: 0;">
+      This premium digital space archives my absolute technical development, sequential logic structures, and core data engineering implementations during my academic journey as a Computer Engineering student at the <strong>University of Engineering and Technology (UET) Lahore</strong>. Under the direct academic philosophy and guidance of Dr. Bilal Ahmad, this portfolio stands as a structured testament to algorithmic evolution, version control systems, and data analytics architectures.
+    </p>
+  </div>
 
-* [Post 1: Planting the Flag – Building My GitHub Portfolio](#post-1-planting-the-flag--building-my-github-portfolio)
-* [Post 2: The Architecture of Software – Programming Fundamentals (PF)](programming-fundamentals.md)
-* [Post 3: Navigating Relational Architectures & Machine Learning](database-systems.md)
-* [Post 4: Reflecting on the Midterm Examination Period](post-4.md)
-* [Post 5: Event-Driven Architecture – C# GUI Game](post-5.md)
-* [Post 6: Data Persistence & Relational Models](post-6.md)
-* [Post 7: Advanced Entity-Relationship (ER) Modeling](post-7.md)
-* [Post 8: Database Normalization – Eradicating Anomalies](post-8.md)
-* [Post 9: Structural Query Optimization – Relational JOINs](post-9.md)
-* [Post 10: Sequential Logic Design – Traffic Light Controller](post-10.md)
-* [Post 11: The 142-Page Comprehensive Laboratory Portfolio](post-11.md)
-* [Post 12: Synergy Between Data Engineering & Machine Learning](post-12.md)
-* [Post 13: Version Control Mastery – GitHub as a Ledger](post-13.md)
-* [Post 14: Creative Media Integration in Engineering](post-14.md)
-* [Post 15: Future Horizons – Next-Gen Computational Challenges](post-15.md)
+  <!-- About Section -->
+  <div id="about" style="margin-bottom: 40px; padding: 10px 20px;">
+    <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem;">About Academic Training</h3>
+    <p style="line-height: 1.6; color: #8b949e;">Focused on integrating foundational software systems with structural engineering hardware concepts. My competencies encompass structural logic mapping, relational normalization algorithms (1NF, 2NF, 3NF), relational algebra expressions, and modern predictive engineering frameworks using structured machine learning models.</p>
+  </div>
 
----
+  <!-- Engineering Journal Dashboard (The Blog Posts Grid) -->
+  <div id="blog" style="margin-bottom: 40px;">
+    <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem; margin-bottom: 20px;">Engineering Journal & Chronicles</h3>
+    
+    <div style="display: grid; grid-template-columns: 1fr; gap: 15px;">
+      <!-- Post 1 to 5 Link Matrix -->
+      <a href="post-1" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 01: Paradigms of Structural Computation & UET Frameworks</a>
+      <a href="post-2" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 02: Algorithmic Logic, Problem Decomposition & Structural Paradigms</a>
+      <a href="post-3" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 03: Modern Predictive Frameworks & Classifier Mechanics (ML)</a>
+      <a href="post-4" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 04: Evaluation Metrics & Midterm Performance Matrix Reflection</a>
+      <a href="post-5" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 05: GUI Interactive Paradigms – C# Windows Forms Application Project</a>
+      <a href="post-6" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 06: Relational Database Foundations & Data Persistence Systems</a>
+      <a href="post-10" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 10: Academic Reflections on Normalization Paradigms (1NF/2NF/3NF)</a>
+      <a href="post-11" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 11: Comprehensive Consolidation of Laboratory Data Ecosystems</a>
+      <a href="post-12" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 12: Data Engineering Horizons & Advanced Machine Learning Synergies</a>
+      <a href="post-13" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 13: Technical Mastery of Modern Version Control & Git Protocols</a>
+      <a href="post-14" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 14: Engineering Management and Digital Creative Media Frameworks</a>
+      <a href="post-15" style="display: block; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; color: #58a6ff; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='none'">📖 Post 15: Future Horizons – Next-Generation Computational & Intelligence Challenges</a>
+    </div>
+  </div>
 
-## Post 1: Planting the Flag – Building My GitHub Portfolio
+  <!-- Contact Section -->
+  <div id="contact" style="border-top: 1px solid #21262d; padding-top: 20px; text-align: center; color: #8b949e; font-size: 0.9rem;">
+    <p>Connected Terminal &copy; 2026 | Kashmala Arshad - Department of Computer Engineering, UET Lahore</p>
+  </div>
 
-Stepping into the academic corridors of the University of Engineering and Technology (UET) as a Computer Engineering student has been nothing short of a transformative whirlwind. In the modern technological landscape, an engineer's capability is no longer judged solely by a printed resume or a static transcript. Instead, true technical capability is measured by active contribution, visible problem-solving, and a permanent digital footprint. This realization was the exact catalyst for the creation of this live, public portfolio website on GitHub. The strategic decision to document my engineering evolution, laboratory experiments, and shifting academic perspectives right here in the open was directly suggested to me by my professor, Dr. Bilal Ahmad, who teaches at the UET Lahore, Faisalabad campus. 
-
-At the very beginning of the semester, when the concept of maintaining a continuous digital portfolio was first introduced, I was admittedly skeptical. I wondered about the long-term professional advantages of archiving raw student code, syntax errors, and initial conceptual misunderstandings in a public space where anyone could scrutinize them. However, Dr. Bilal Ahmad pushed us past this hesitation, emphasizing that a true engineering portfolio is not a curated showcase of flawless execution, but a living, breathing testament to consistency, resilience, and incremental growth. By building this digital space, I am actively constructing a visible bridge between complex academic theories taught in the lecture halls and real-world practical implementations. Over time, this live repository will serve as an unedited timeline tracking exactly how a student navigates the structural rigors of engineering to emerge as a qualified software builder.
-
-Maintaining this portfolio forces a level of discipline that standard classroom assignments simply cannot replicate. When you know your code and documentation are going to be hosted publically, you inherently begin to pay closer attention to detail. You care more about writing clean, readable code, structuring documentation professionally, and explaining your logical reasoning clearly. This practice helps develop essential software engineering skills early on: version control usage, Markdown formatting, and transparent technical communication. Under the mentorship of Dr. Bilal Ahmad, this portfolio has evolved from a simple course requirement into a highly personal professional archive. It ensures that as I grow technically, my digital presence grows right alongside me, providing tangible proof of my capabilities to future collaborators, peers, and the wider global tech community.
-
-#DrBilalAhmad #MLwithDrBilalAhmad #MLProject #ComputerEngineering #UETLahore
+</div>
