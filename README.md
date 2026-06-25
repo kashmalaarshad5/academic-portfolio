@@ -20,10 +20,10 @@
   </div>
 
   <!-- Hero Intro Section -->
-  <div id="home" style="margin-bottom: 40px; background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); padding: 30px; border-radius: 8px; border: 1px solid #30363d;">
-    <h2 style="color: #58a6ff; margin-top: 0; font-size: 1.5rem;">Welcome to my Official Engineering Space</h2>
-    <p style="line-height: 1.7; color: #c9d1d9; font-size: 1.05rem; margin-bottom: 0;">
-      This premium digital space archives my absolute technical development, sequential logic structures, and core data engineering implementations during my academic journey as a Computer Engineering student at the <strong>University of Engineering and Technology (UET) Lahore</strong>. Under the direct academic philosophy and guidance of Dr. Bilal Ahmad, this portfolio stands as a structured testament to algorithmic evolution, version control systems, and data analytics architectures.
+ <div id="home" style="margin-bottom: 40px; padding: 30px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+    <h2 style="color: #58a6ff; margin-top: 0; font-size: 1.5rem;">Welcome to my Portfolio</h2>
+    <p style="line-height: 1.7; color: #c9d1d9; font-size: 1.05rem;">
+      This website is a collection of my academic work, programming projects, and lab assignments. As a Computer Engineering student, I am using this space to keep track of my learning journey and share the practical work I do in my semesters.
     </p>
   </div>
 
