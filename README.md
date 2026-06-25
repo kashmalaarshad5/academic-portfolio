@@ -64,26 +64,46 @@
 
   <!-- Clean, Non-Spammy Engineering Journal Section -->
 <div id="blog" style="margin-bottom: 40px; padding: 10px 20px;">
-  <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem; margin-bottom: 20px;">Engineering Journal & Chronicles</h3>
+  <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem; margin-bottom: 25px;">Engineering Journal & Chronicles</h3>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+    
+    <!-- Card 1 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&auto=format&fit=crop&q=60" alt="Computation" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-1" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 01: Paradigms of Structural Computation</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Computer Engineering framework foundations.</p>
+      </div>
+    </div>
 
-  <div style="line-height: 1.8; font-size: 1.05rem;">
-    <ul style="list-style-type: square; padding-left: 20px; color: #8b949e;">
-      <li style="margin-bottom: 8px;"><a href="post-1" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 01: Paradigms of Structural Computation</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-2" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 02: Algorithmic Logic and Problem Decomposition</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-3" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 03: Explorations in Modern Predictive Frameworks</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-4" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 04: Evaluation Metrics Reflection</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-5" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 05: GUI Interactive Paradigms in C#</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-6" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 06: Relational Database Foundations</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-7" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 07: Entity-Relationship Modeling & Schema Mapping</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-8" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 08: Foundations of Digital Logic Design</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-9" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 09: Implementation of an Automatic Traffic Light System</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-10" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 10: Academic Reflections on Normalization</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-11" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 11: Consolidation of Laboratory Data</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-12" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 12: Data Engineering Horizons</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-13" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 13: Technical Mastery of Version Control</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-14" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 14: Digital Creative Media Frameworks</a></li>
-      <li style="margin-bottom: 8px;"><a href="post-15" style="color: #58a6ff; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Post 15: Future Horizons in Engineering</a></li>
-    </ul>
+    <!-- Card 2 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=400&auto=format&fit=crop&q=60" alt="Logic" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-2" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 02: Algorithmic Logic & Decomposition</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Breaking down software logic steps.</p>
+      </div>
+    </div>
+
+    <!-- Card 5 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&auto=format&fit=crop&q=60" alt="GUI" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-5" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 05: GUI Interactive Paradigms in C#</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Designing the C# GUI application interface.</p>
+      </div>
+    </div>
+
+    <!-- Card 9 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&auto=format&fit=crop&q=60" alt="Hardware" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-9" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 09: Automatic Traffic Light Controller</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Sequential circuit layout and DLD setup.</p>
+      </div>
+    </div>
+
   </div>
 </div>
 
