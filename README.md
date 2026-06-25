@@ -86,6 +86,24 @@
       </div>
     </div>
 
+    <!-- Card 3 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&auto=format&fit=crop&q=60" alt="Predictive" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-3" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 03: Explorations in Predictive Frameworks</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Analyzing basic machine learning datasets.</p>
+      </div>
+    </div>
+
+    <!-- Card 4 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&auto=format&fit=crop&q=60" alt="Metrics" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-4" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 04: Evaluation Metrics Reflection</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Understanding accuracy and classifier results.</p>
+      </div>
+    </div>
+
     <!-- Card 5 -->
     <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
       <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&auto=format&fit=crop&q=60" alt="GUI" style="width: 100%; height: 140px; object-fit: cover;">
@@ -95,12 +113,93 @@
       </div>
     </div>
 
+    <!-- Card 6 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=400&auto=format&fit=crop&q=60" alt="Database" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-6" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 06: Relational Database Foundations</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Working with SQL keys and tables setup.</p>
+      </div>
+    </div>
+
+    <!-- Card 7 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1508873535684-277a3cbcc4e8?w=400&auto=format&fit=crop&q=60" alt="ERD" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-7" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 07: Entity-Relationship Modeling</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Mapping out ER diagrams and schemas.</p>
+      </div>
+    </div>
+
+    <!-- Card 8 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&auto=format&fit=crop&q=60" alt="DLD" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-8" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 08: Foundations of Digital Logic</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Analyzing sequential logic circuits and gates.</p>
+      </div>
+    </div>
+
     <!-- Card 9 -->
     <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
       <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&auto=format&fit=crop&q=60" alt="Hardware" style="width: 100%; height: 140px; object-fit: cover;">
       <div style="padding: 15px;">
         <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-9" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 09: Automatic Traffic Light Controller</a></h5>
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Sequential circuit layout and DLD setup.</p>
+      </div>
+    </div>
+
+    <!-- Card 10 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&auto=format&fit=crop&q=60" alt="Normalization" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-10" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 10: Academic Reflections on Normalization</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Studying database structures up to 3NF.</p>
+      </div>
+    </div>
+
+    <!-- Card 11 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=400&auto=format&fit=crop&q=60" alt="Merge" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-11" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 11: Consolidation of Laboratory Data</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Structuring reports into comprehensive modules.</p>
+      </div>
+    </div>
+
+    <!-- Card 12 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=400&auto=format&fit=crop&q=60" alt="Data" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-12" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 12: Data Engineering Horizons</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Reviewing backend system implementations.</p>
+      </div>
+    </div>
+
+    <!-- Card 13 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1556075798-482a62c15f3c?w=400&auto=format&fit=crop&q=60" alt="Git" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-13" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 13: Mastery of Version Control</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Managing codebases using Git repository structures.</p>
+      </div>
+    </div>
+
+    <!-- Card 14 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400&auto=format&fit=crop&q=60" alt="Media" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-14" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 14: Digital Creative Media Frameworks</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Integrating creative designs with technical roles.</p>
+      </div>
+    </div>
+
+    <!-- Card 15 -->
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&auto=format&fit=crop&q=60" alt="Future" style="width: 100%; height: 140px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h5 style="margin: 0 0 10px 0; font-size: 1.05rem;"><a href="post-15" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Post 15: Future Horizons in Engineering</a></h5>
+        <p style="color: #8b949e; font-size: 0.85rem; margin: 0;">Setting paths for upcoming computer systems development.</p>
       </div>
     </div>
 
