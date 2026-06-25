@@ -28,9 +28,12 @@
   </div>
 
   <!-- About Section -->
-  <div id="about" style="margin-bottom: 40px; padding: 10px 20px;">
-    <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem;">About Academic Training</h3>
-    <p style="line-height: 1.6; color: #8b949e;">Focused on integrating foundational software systems with structural engineering hardware concepts. My competencies encompass structural logic mapping, relational normalization algorithms (1NF, 2NF, 3NF), relational algebra expressions, and modern predictive engineering frameworks using structured machine learning models.</p>
+  <!-- About Me Intro (Simple & Honest Language) -->
+  <div id="home" style="margin: 35px 0; padding: 0 10px;">
+    <h3 style="color: #ffffff; font-size: 1.4rem; margin-bottom: 15px;">About Me</h3>
+    <p style="line-height: 1.7; font-size: 1.1rem; color: #c9d1d9;">
+      Hi! I am a Computer Engineering student in my 2nd semester at UET Lahore. I really enjoy building things with code, exploring how databases are designed, and understanding the basics of machine learning. Right now, I am focusing on improving my programming logic and creating practical, real-world projects. For me, computer engineering is all about breaking down a problem and figuring out a clean, working solution for it.
+    </p>
   </div>
 <!-- Modern Skills Section -->
 <div id="skills" style="margin-bottom: 40px; padding: 10px 20px;">
