@@ -28,6 +28,35 @@
     <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem;">About Academic Training</h3>
     <p style="line-height: 1.6; color: #8b949e;">Focused on integrating foundational software systems with structural engineering hardware concepts. My competencies encompass structural logic mapping, relational normalization algorithms (1NF, 2NF, 3NF), relational algebra expressions, and modern predictive engineering frameworks using structured machine learning models.</p>
   </div>
+<!-- Modern Skills Section -->
+<div id="skills" style="margin-bottom: 40px; padding: 10px 20px;">
+  <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem; margin-bottom: 20px;">Technical Skills & Expertise</h3>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <span style="background-color: #21262d; color: #58a6ff; border: 1px solid #30363d; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; font-weight: bold;">C++ / OOP</span>
+    <span style="background-color: #21262d; color: #58a6ff; border: 1px solid #30363d; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; font-weight: bold;">C# & Windows Forms (GUI)</span>
+    <span style="background-color: #21262d; color: #58a6ff; border: 1px solid #30363d; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; font-weight: bold;">SQL / MySQL</span>
+    <span style="background-color: #21262d; color: #58a6ff; border: 1px solid #30363d; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; font-weight: bold;">Database Normalization (1NF, 2NF, 3NF)</span>
+    <span style="background-color: #21262d; color: #58a6ff; border: 1px solid #30363d; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; font-weight: bold;">Digital Logic Design (DLD)</span>
+    <span style="background-color: #21262d; color: #58a6ff; border: 1px solid #30363d; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; font-weight: bold;">Machine Learning Foundations</span>
+    <span style="background-color: #21262d; color: #58a6ff; border: 1px solid #30363d; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; font-weight: bold;">Git & GitHub</span>
+  </div>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #30363d; margin-bottom: 40px;">
+
+<!-- Clean Contact Section -->
+<div id="contact" style="margin-bottom: 40px; padding: 10px 20px;">
+  <h3 style="color: #ffffff; border-left: 4px solid #58a6ff; padding-left: 12px; font-size: 1.4rem; margin-bottom: 20px;">Connect With Me</h3>
+  
+  <div style="line-height: 2; font-size: 1.05rem; color: #c9d1d9;">
+    📧 <strong>Email:</strong> <a href="mailto:kashmala.arshad79@gmail.com" style="color: #58a6ff; text-decoration: none;">kashmala.arshad79@gmail.com</a><br>
+    🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/kashmala-arshad" target="_blank" style="color: #58a6ff; text-decoration: none;">linkedin.com/in/kashmala-arshad</a><br>
+    💻 <strong>GitHub Profile:</strong> <a href="https://github.com/kashmalaarshad5" style="color: #58a6ff; text-decoration: none;">github.com/kashmalaarshad5</a>
+  </div>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #30363d; margin-bottom: 40px;">
 
   <!-- Clean, Non-Spammy Engineering Journal Section -->
 <div id="blog" style="margin-bottom: 40px; padding: 10px 20px;">
