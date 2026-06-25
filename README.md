@@ -64,11 +64,11 @@ layout: default
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px 0;">Foundations of computer engineering and early coding experiences.</p>
         <div style="color: #c9d1d9; font-size: 0.85rem; display: grid; gap: 12px;">
           <div>
-            <strong><a href="{{ site.baseurl }}/post-1.html" style="color: #58a6ff; text-decoration: none;">Post 01: Introduction to Programming</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-01.html" style="color: #58a6ff; text-decoration: none;">Post 01: Introduction to Programming</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Starting my computer engineering journey and structural code basics.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-2.html" style="color: #58a6ff; text-decoration: none;">Post 02: Understanding Software Design & Code</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-02.html" style="color: #58a6ff; text-decoration: none;">Post 02: Understanding Software Design & Code</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">How to break down complex logical steps and optimize software structure.</p>
           </div>
         </div>
@@ -84,39 +84,39 @@ layout: default
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px 0;">Core engineering modules including Databases and ML datasets.</p>
         <div style="color: #c9d1d9; font-size: 0.85rem; display: grid; gap: 12px;">
           <div>
-            <strong><a href="{{ site.baseurl }}/post-3.html" style="color: #58a6ff; text-decoration: none;">Post 03: Intro to Machine Learning</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-03.html" style="color: #58a6ff; text-decoration: none;">Post 03: Intro to Machine Learning</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Working with basic data-driven paradigms and classification datasets.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-4.html" style="color: #58a6ff; text-decoration: none;">Post 04: Classifier Accuracy & Metrics</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-04.html" style="color: #58a6ff; text-decoration: none;">Post 04: Classifier Accuracy & Metrics</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Learning how to check confusion matrix and classifier results properly.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-5.html" style="color: #58a6ff; text-decoration: none;">Post 05: Crop Yield Prediction Project</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-05.html" style="color: #58a6ff; text-decoration: none;">Post 05: Crop Yield Prediction Project</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Applying machine learning algorithms to environmental and agricultural datasets.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-6.html" style="color: #58a6ff; text-decoration: none;">Post 06: Relational Database Foundations</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-06.html" style="color: #58a6ff; text-decoration: none;">Post 06: Relational Database Foundations</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Understanding schema arrays, column setups, and SQL tables syntax.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-7.html" style="color: #58a6ff; text-decoration: none;">Post 07: Entity-Relationship Modeling</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-07.html" style="color: #58a6ff; text-decoration: none;">Post 07: Entity-Relationship Modeling</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Designing system blueprints, attributes, and structural database setups.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-10.html" style="color: #58a6ff; text-decoration: none;">Post 10: Database Normalization</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-10.html" style="color: #58a6ff; text-decoration: none;">Post 10: Database Normalization</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Structuring relations up to 3NF to prevent redundant tables and anomalies.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-11.html" style="color: #58a6ff; text-decoration: none;">Post 11: Organizing Lab Reports</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-11.html" style="color: #58a6ff; text-decoration: none;">Post 11: Organizing Lab Reports</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Compilation and technical documentation logs for semester reviews.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-12.html" style="color: #58a6ff; text-decoration: none;">Post 12: Intro to Data Engineering</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-12.html" style="color: #58a6ff; text-decoration: none;">Post 12: Intro to Data Engineering</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Exploring backend architecture setups and continuous ETL frameworks.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-13.html" style="color: #58a6ff; text-decoration: none;">Post 13: Version Control and Git</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-13.html" style="color: #58a6ff; text-decoration: none;">Post 13: Version Control and Git</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Managing script backups and tracking staging-commit repositories cycles.</p>
           </div>
         </div>
@@ -140,19 +140,19 @@ layout: default
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px 0;">Hostel routine dynamics, student organization actions, and media layouts.</p>
         <div style="color: #c9d1d9; font-size: 0.85rem; display: grid; gap: 12px;">
           <div>
-            <strong><a href="{{ site.baseurl }}/post-8.html" style="color: #58a6ff; text-decoration: none;">Post 08: My First Day at UET Lahore</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-08.html" style="color: #58a6ff; text-decoration: none;">Post 08: My First Day at UET Lahore</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Embarking on the engineering journey and early university experiences.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-9.html" style="color: #58a6ff; text-decoration: none;">Post 09: Hostel Life Dynamics & Activities</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-09.html" style="color: #58a6ff; text-decoration: none;">Post 09: Hostel Life Dynamics & Activities</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Late-night study peer group sessions, movie nights, and balancing campus life.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-14.html" style="color: #58a6ff; text-decoration: none;">Post 14: Digital Media & Design Tools</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-14.html" style="color: #58a6ff; text-decoration: none;">Post 14: Digital Media & Design Tools</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Exploring graphics layouts, visual communications tools, and UI/UX setups.</p>
           </div>
           <div>
-            <strong><a href="{{ site.baseurl }}/post-15.html" style="color: #58a6ff; text-decoration: none;">Post 15: Future Academic Goals</a></strong>
+            <strong><a href="https://kashmalaarshad5.github.io/academic-portfolio/post-15.html" style="color: #58a6ff; text-decoration: none;">Post 15: Future Academic Goals</a></strong>
             <p style="color: #8b949e; font-size: 0.8rem; margin: 2px 0 0 0;">Reflecting on initial steps and building professional technical direction blueprints.</p>
           </div>
         </div>
